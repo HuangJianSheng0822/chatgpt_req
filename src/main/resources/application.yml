@@ -1,9 +1,1 @@
-baseReqParam:
-  url: "https://api.openai.com/v1/chat/completions"
-  authorization: "Bearer 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"
-  model: "gpt-3.5-turbo"
-  max_tokens: 1000
-  temperature: 0.7
-  top_p: 1
-  n: 1
-  stream: false
+
